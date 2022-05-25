@@ -1,0 +1,16 @@
+.contact-cards-div {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 25px;
+  border: 1px solid gray;
+  margin-bottom: 25px;
+  border-radius: 25px;
+}
+.add-button {
+  padding: 30px 0;
+}
+.add-button button {
+  background-color: blue;
+  color: #fff;
+  padding: 6px 24px;
+}
